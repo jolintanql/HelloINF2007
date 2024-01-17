@@ -51,7 +51,7 @@
 
 - **Continuous Integration (CI):**
   - Set up Github Actions for CI.
-  - Find the build status at [Your Build Status URL].
+  - Check your job status
 
   
 ---
