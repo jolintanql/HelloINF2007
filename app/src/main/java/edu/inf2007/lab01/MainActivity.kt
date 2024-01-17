@@ -15,6 +15,8 @@ import edu.inf2007.lab01.ui.theme.Lab01Theme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // TODO: Task 6 here
+
         setContent {
             Lab01Theme {
                 // A surface container using the 'background' color from the theme
