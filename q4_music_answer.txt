@@ -1,0 +1,6 @@
+The process responsible for playing music appears to be the audioserver. This process is utilizing CPU resources, as indicated by its percentage of CPU usage in the top command output. 
+
+
+
+
+

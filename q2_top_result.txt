@@ -1,0 +1,25 @@
+[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 282 total,   1 running, 281 sleeping,   0 stopped,   0 zombie
+  Mem:  2009308K total,  1696336K used,   312972K free,     3392K buffers
+ Swap:        0K total,        0K used,        0K free,   333352K cached
+400%cpu   4%user   0%nice   7%sys 385%idle   0%iow   4%irq   0%sirq   0%host
+[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
+[1m13443 shell        20   0  10G 4.4M 3.6M R  7.4   0.2   0:00.03 top[m
+13434 root          0 -20    0    0    0 I  0.0   0.0   0:00.00 [kworker/u9:0-f+
+13428 root         20   0    0    0    0 I  0.0   0.0   0:02.24 [kworker/0:2-vi+
+13418 shell        20   0  10G 3.2M 2.7M S  0.0   0.1   0:00.50 logcat -v long +
+13363 u0_a66       20   0  14G  73M  29M S  0.0   3.7   0:00.04 com.android.pro+
+13336 u0_a124      20   0  14G  91M  43M S  0.0   4.6   0:00.26 com.google.andr+
+13328 root         20   0    0    0    0 I  0.0   0.0   0:00.09 [kworker/u8:4-k+
+13267 root          0 -20    0    0    0 I  0.0   0.0   0:00.11 [kworker/u9:4-b+
+13226 u0_a105      20   0  14G  71M  13M S  0.0   3.5   0:00.27 com.android.ven+
+13224 u0_a163      10 -10  14G  93M  16M S  0.0   4.7   0:00.75 edu.inf2007.lab+
+13175 u0_a74       20   0  14G  52M 8.1M S  0.0   2.6   0:00.17 com.google.andr+
+13150 shell        20   0  10G 1.8M 1.1M S  0.0   0.0   0:00.00 installer -vers+
+13148 shell        20   0  10G 1.2M 808K S  0.0   0.0   0:00.00 sh -c /data/loc+
+13115 root         20   0    0    0    0 I  0.0   0.0   0:02.49 [kworker/0:0-vi+
+12974 u0_a105      20   0  14G  64M 6.6M S  0.0   3.2   0:00.40 com.android.ven+
+12939 u0_a107      20   0  14G  69M  13M S  0.0   3.5   0:00.94 com.google.andr+
+12892 system       20   0  14G  50M 5.1M S  0.0   2.5   0:00.16 com.android.set+
+12788 u0_a108      20   0  14G  51M 6.1M S  0.0   2.5   0:00.13 com.google.proc+
+12745 u0_a123      20   0  15G  54M 5.2M S  0.0   2.7   0:00.32 com.google.andr+
+12694 shell        20   0  10G 2.1M 392K S  0.0   0.1   0:01.88 transport -conf+
